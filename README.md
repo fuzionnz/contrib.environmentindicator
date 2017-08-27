@@ -8,9 +8,16 @@ The Environment Indicator module is a Drupal module, so this extension is CMS-sp
 
 ## Installation
 
-Install `contrib.environmentindicator` by running:
+### Web UI
 
-    cv ext:download contrib.environmentindicator
+Install the extension using the CiviCRM UI, [per CiviCRM documentation](https://docs.civicrm.org/user/en/4.7/introduction/extensions/#installing-extensions).
+
+### CLI, using "cv"
+
+If you have `cv` installed, you can install `nz.co.fuzion.environmentindicator` from the commandline by running:
+
+    cv ext:download nz.co.fuzion.environmentindicator
+    cv ext:enable nz.co.fuzion.environmentindicator
 
 ## Configuration
 
