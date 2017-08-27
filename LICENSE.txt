@@ -1,4 +1,4 @@
-Package: contrib.environmentindicator
+Package: nz.co.fuzion.environmentindicator
 Copyright (C) 2017, Fuzion <admin@fuzion.co.nz>
 Licensed under the GNU Affero Public License 3.0 (below).
 

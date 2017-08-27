@@ -10,6 +10,6 @@ require_once 'environmentindicator.civix.php';
 function environmentindicator_civicrm_config(&$config) {
   _environmentindicator_civix_civicrm_config($config);
 
-  CRM_Core_Resources::singleton()->addScriptFile('contrib.environmentindicator', 'js/environmentindicator.js');
+  CRM_Core_Resources::singleton()->addScriptFile('nz.co.fuzion.environmentindicator', 'js/environmentindicator.js');
 }
 
