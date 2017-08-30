@@ -1,10 +1,14 @@
 # Environment Indicator for CiviCRM
 
-This CiviCRM extension adds javascript to apply colors from the [Drupal Environment Indicator module](https://drupal.org/project/environment_indicator) to CiviCRM's menu, making it better match the treatment of Drupal's Admin Menu.
+![screenshot](docs/screenshot.png)
+
+This CiviCRM extension adds javascript to apply colors from the [Drupal Environment Indicator module](https://drupal.org/project/environment_indicator) to CiviCRM's menu, providing a visual indication of the current site environment to people using CiviCRM.
+
+Provided you have the Drupal Environment Indicator module installed and configured, this extension will simply replicate to CiviCRM's menu the colour changes applied by Environment Indicator module to your Drupal menu.
 
 ## Drupal Only
 
-The Environment Indicator module is a Drupal module, so this extension is CMS-specific.
+The Environment Indicator module is a Drupal module, so this extension is CMS-specific. It won't do anything if Environment Indicator is not installed and enabled.
 
 ## Installation
 
@@ -21,7 +25,7 @@ If you have `cv` installed, you can install `nz.co.fuzion.environmentindicator` 
 
 ## Configuration
 
-No special configuration is required for this extension. Just install it!
+No special configuration is required for this extension.
 
 ## How it works
 
