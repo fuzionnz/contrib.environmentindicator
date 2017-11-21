@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.2"?>
 <extension key="nz.co.fuzion.environmentindicator" type="module">
   <file>environmentindicator</file>
   <name>Environment Indicator</name>
